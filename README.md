@@ -1,4 +1,4 @@
-# -study-access-guide
+#全球学术与研究资源稳定访问指南
 访问全球学术资源的指南 A guide for accessing global academic resources.
 # 全球学术与研究资源稳定访问指南
 
