@@ -23,7 +23,7 @@
 
 经过长期测试和使用，以下服务在**稳定性、速度和性价比**方面表现优异，适合长期使用：
 
-**👉 [点击这里，获取当前最稳定的服务方案]((https://suying148.xyz/auth/register?code=fkwW))**
+**👉 [点击这里，获取当前最稳定的服务方案](https://suying148.xyz/auth/register?code=fkwW)**
 
 ---
 
